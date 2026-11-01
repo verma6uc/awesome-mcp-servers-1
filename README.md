@@ -260,6 +260,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://cdn.simpleicons.org/fathom/9187FF" height="14"/> [Fathom Analytics](https://github.com/mackenly/mcp-fathom-analytics) - Access Fathom Analytics data and reports about your sites
 - <img src="https://static.xx.fbcdn.net/rsrc.php/y9/r/tL_v571NdZ0.svg" height="14"/> [Facebook Ads](https://github.com/gomarble-ai/facebook-ads-mcp-server) - MCP server acting as an interface to the Facebook Ads, enabling programmatic access to Facebook Ads data and management features.
 - <img src="https://img.icons8.com/?size=48&id=ui4CTPMMDCFh&format=png" height="14"/> [Google Ads](https://github.com/gomarble-ai/google-ads-mcp-server) - MCP server acting as an interface to the Google Ads, enabling programmatic access to Google Ads data and management features.
+- <img src="https://cdn.simpleicons.org/salesforce/00A1E0" height="14"/> [Mach GTM MCP](https://github.com/verma6uc/mach-gtm-mcp) - B2B outbound sales tools for AI assistants: build ICPs, research prospects with verified signals, score leads (0-100), draft personalised cold emails and LinkedIn messages, and generate multi-touch sequences. Install: `npx mach-gtm-mcp`
 <br />
 
 ## 📝 <a name="note-taking"></a>Note Taking
